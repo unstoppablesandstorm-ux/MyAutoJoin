@@ -1,0 +1,2 @@
+# MyAutoJoin
+MyAutoJoin
